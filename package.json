@@ -1,0 +1,30 @@
+{
+  "name": "api-ghibli-app",
+  "version": "0.0.1",
+  "description": "API para generar datos sobre el studio ghibli y sus peliculas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "studio-ghibli",
+    "Open-Bootcamp",
+    "Express",
+    "JavaScript"
+  ],
+  "author": "AleVedoya JonatanHN",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "prettier": "2.7.1"
+  }
+}
